@@ -45,7 +45,7 @@ def network_monitoring():
         print("Netstat Output:")
         print(result.stdout)
     except subprocess.CalledProcessError as e:
-        print("An error occurred while trying to ping the server:")
+        print("An error occurred while trying to get network status on  the server:")
         print(e.stderr)
 
     print("Network is up and running smoothly!\n\n")
@@ -54,7 +54,7 @@ def network_monitoring():
 
 
 
-# Temporary database of users hashed passwords
+# Temporary database of users hashed passwords , not a good practice just for prototype
 user_db_69 = {
     "wiener": hashlib.sha256("!qaz@wsx#edc".encode()).hexdigest(),
     "admin007": hashlib.sha256("peter".encode()).hexdigest()
