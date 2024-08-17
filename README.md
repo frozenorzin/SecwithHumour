@@ -30,5 +30,4 @@ This project is a security-focused prototype that demonstrates basic operations 
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/security-architecture-prototype.git
-   cd security-architecture-prototype
+   git clone https://github.com/frozenorzin/SecwithHumour/blob/main/README.md
