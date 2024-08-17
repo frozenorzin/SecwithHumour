@@ -30,4 +30,4 @@ This project is a security-focused prototype that demonstrates basic operations 
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/frozenorzin/SecwithHumour/blob/main/README.md
+   git clone https://github.com/frozenorzin/SecwithHumour/
